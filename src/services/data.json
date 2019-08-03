@@ -1,0 +1,12 @@
+{
+  "Search":[
+    {
+      "hamperId": "1",
+      "name": "testName1"
+    },
+    {
+      "hamperId": "2",
+      "name": "testName2"
+    }
+  ]
+}
